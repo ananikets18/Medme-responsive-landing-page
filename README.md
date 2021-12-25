@@ -1,7 +1,7 @@
 # Medme Responsive Landing Page
 Medme Responsive Landing Page using HTML CSS &amp; Javascript
 
-### [Watch it on YouTube](https://youtu.be/RdCJmh_Hi5k)
+### [Watch it on YouTube](https://youtu.be/X1SCNxy_M0w)
 
 
 ![medme-responsive-landing-page-design](https://user-images.githubusercontent.com/57999016/147378316-685ef154-a1a6-42e4-a043-48d5645fb082.png)
