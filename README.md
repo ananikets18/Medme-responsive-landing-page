@@ -3,10 +3,11 @@ Medme Responsive Landing Page using HTML CSS &amp; Javascript
 
 ### [Watch it on YouTube](https://youtu.be/RdCJmh_Hi5k)
 
-![medme-responsive-landing-page-design](https://user-images.githubusercontent.com/57999016/147378276-aa5b8a1b-1afe-4cc4-ab44-13ef161b3243.png)
+
+![medme-responsive-landing-page-design](https://user-images.githubusercontent.com/57999016/147378316-685ef154-a1a6-42e4-a043-48d5645fb082.png)
 
 
-#### 📖 Explain 
+### 📖 Explain 
 Hello Everyone, after the longer break so here we go again !
 So this video is about creating the Responsive landing page using fundamental front-end technologies like HTML CSS & Javascript, So in this video we created a simple Responsive landing page using HTML CSS and in order to perform  those powerful animations we use the GSAP a JavaScript animation library for work done.
 
