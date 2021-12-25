@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Medme Landing Page - Responsive Landing Page</title>
+		<!-- ======= STYLE ====== -->
+		<link rel="stylesheet" href="./CSS/style.css" />
+		<!-- ======= BOXICONS CDN ====== -->
+		<link
+			href="https://unpkg.com/boxicons@2.1.1/css/boxicons.min.css"
+			rel="stylesheet"
+		/>
+		<!-- ======= GSAP CDN ====== -->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.8.0/gsap.min.js"></script>
+	</head>
+	<body>
+		<!-- ====== 
+			HEADER 
+			====== -->
+		<header class="header container">
+			<!-- ====== 
+				NAVBAR 
+			====== -->
+			<nav class="navbar">
+				<div class="logo">
+					<h2 class="logo-name">
+						<a href="#">Med<span>me</span> </a>
+					</h2>
+				</div>
+
+				<!-- ====== 
+				NAV_MENU  
+			====== -->
+				<div class="nav_menu">
+					<div class="close-nav">
+						<button class="close_btn">&#10005;</button>
+					</div>
+					<ul class="nav-link-list">
+						<li class="nav-link-list-item">
+							<a class="nav-link active" href="#">home</a>
+						</li>
+						<li class="nav-link-list-item">
+							<a class="nav-link" href="#">product</a>
+						</li>
+						<li class="nav-link-list-item">
+							<a class="nav-link" href="#">contact</a>
+						</li>
+						<li class="nav-link-list-item">
+							<a class="nav-link" href="#">about</a>
+						</li>
+					</ul>
+				</div>
+
+				<button class="toggle_btn">
+					<i class="bx bx-menu"></i>
+				</button>
+			</nav>
+		</header>
+
+		<!-- ====== 
+			HERO SECTION 
+			====== -->
+		<div class="container">
+			<section class="grid grid-cols-2">
+				<!-- ===== GRID-ITEM-1 ===== -->
+				<div class="grid-item-1">
+					<div class="flex-item-1">
+						<p class="product-intro">#1 Best Herbal by JEZ</p>
+						<h1 class="product-tagline">
+							herbal without <span>side effects</span>
+						</h1>
+						<p class="product-desc">
+							No need to worry about taking medicines,all our products are
+							herbal remedies that have been proven tob be potent and certified.
+						</p>
+						<a href="#" class="cta-btn">buy now</a>
+					</div>
+
+					<div class="flex-item-2">
+						<ul class="customer-list">
+							<li class="customer-list-item">
+								<img class="customer-img" src="./img/01.png" alt="cusomtor-1" />
+							</li>
+							<li class="customer-list-item">
+								<img class="customer-img" src="./img/02.png" alt="cusomtor-2" />
+							</li>
+							<li class="customer-list-item">
+								<img class="customer-img" src="./img/03.png" alt="cusomtor-3" />
+							</li>
+						</ul>
+						<div class="customer-related-desc">
+							<p>our satisfied customers</p>
+							<span class="rating-star">
+								<i class="bx bxs-star"></i>
+							</span>
+							<span class="rating-count">4.9</span>
+							<span class="ratings">( 110k Ratings )</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- ===== GRID-ITEM-2 ===== -->
+				<div class="grid-item-2">
+					<div class="plant-img">
+						<img src="./img/plant-img.png" alt="plant-img" />
+					</div>
+				</div>
+			</section>
+		</div>
+
+		<!-- ======= Script.js ====== -->
+		<script src="./JS/script.js"></script>
+	</body>
+</html>
